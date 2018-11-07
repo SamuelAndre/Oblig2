@@ -1,2 +1,2 @@
 # Oblig2
-A new repository for oblig2.
+A repository for oblig2.
